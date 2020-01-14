@@ -1,0 +1,321 @@
+
+
+=====================================================================
+== C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\DayZServer_x64.exe
+== "C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\DayZServer_x64.exe" "-config=serverDZ.cfg" "-port=2303" "-mod=@CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems" "-ip=185.223.30.146" "-profiles=C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil"
+=====================================================================
+Exe timestamp: 2019/12/26 17:44:56
+Current time:  2020/01/13 11:27:59
+
+Version 1.06.152859
+11:27:59.123 [Inputs] Loading inputs default "bin/constants.xml"
+11:27:59.138 [Inputs] Loading inputs default "bin/specific.xml"
+11:27:59.138 [Inputs] Loading inputs default "JM/COT/scripts/Data/Inputs.xml"
+11:27:59.138 [Inputs] Loading inputs default "ServerPanel/SP_inputs.xml"
+11:27:59.138 [Inputs] Loading inputs default "VanillaPPMap/data/modded_Inputs.xml"
+11:27:59.138 [Inputs] Loading inputs default "A3_UI_F/Scripts/Inputs.xml"
+11:27:59.138 [Inputs] Loading inputs cfg "C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\Users\Survivor\Server.core.xml"
+11:27:59.154 [Inputs] Exporting inputs cfg "C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\Users\Survivor\Server.core.xml"
+11:29:53.127 [CE][Hive] :: Initializing OFFLINE
+11:29:53.127 [CE][Hive] :: Loading core data ... 
+11:29:53.127 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+11:30:13.519 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+11:30:13.519 [CE][TypeSetup] :: 408 classes setuped...
+11:30:15.112 [CE][RegisterBind] :: 0 classes binded...
+11:30:15.112 [CE][RegisterConfig] :: 5228 config classes registered, 1 sub-counters...
+11:30:15.112 [CE][Hive] :: Loading map data ... 
+11:30:15.362 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.362 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.362 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.362 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.362 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.362 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.362 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.362 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 !!! [CE] :: Unknown category: 'vehicleparts'.
+11:30:15.378 [CE][LoadPrototype] :: loaded 316 prototypes
+11:30:15.378   668 containers, 8849 points
+11:30:15.378   24 dispatches, 90 proxies
+11:30:15.378 !!! [CE][LoadPrototype] 11 groups have no points...
+11:30:15.378 !!![CE][LoadPrototype]  3 groups have wrong points...
+11:30:15.378 [CE][LoadPrototype] :: last group name: Land_Wreck_sed02_aban2_red...
+11:30:15.409 [CE][LoadPrototype] :: loaded 0 prototypes
+11:30:15.409   0 containers, 0 points
+11:30:15.409   0 dispatches, 0 proxies
+11:30:15.409 [CE][LoadPrototype] :: last group name: Rail9...
+11:30:19.474 [CE][LoadMap] "Group" :: loaded 11613 groups, largest group range: 34.2
+11:30:19.503 !!! File "DZ\worlds\chernarusplus\ce\mapgroupdirt.xml" does not exist...
+11:30:19.503 !!! [CE][LoadMap] "Dirt" :: Failed to read group instances (DZ\worlds\chernarusplus\ce\mapgroupdirt.xml)
+11:30:21.503 [CE][Links] found 1974 total links between groups, of 11613
+11:30:21.503 [CE][LoadClusters] "Cluster" :: Loading files...
+11:30:22.566 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+11:30:23.581 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+11:30:24.613 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+11:30:25.691 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+11:30:26.160 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17185 instances
+11:30:26.225 [CE][Storage] ver:21 stamp:41403, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+11:30:26.285 [CE][Storage] ver:21 stamp:41404, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+11:30:26.300 [CE][Storage] ver:21 stamp:41402, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+11:30:26.300 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001".
+=======================================================
+-------------------------------------------------------
+Time: 11:30:26
+Exception code: C0000005 ACCESS_VIOLATION at F3D96D58
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  VehicleSlotPlus_Vehicles in SPK\VehicleSlotPlus\vehicles\
+  EvocatusWallet in EVO\@EvocatusWallet\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\, MSFC_RPK in MSFC_3D_Models\rpk\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+  A3_UI_F in A3_UI_F\Scripts\, MSFC_Barret50BMG in MSFC_3D_Models_Three\barret50bmg\
+  MSFC_STALKER_RP in MSFC_STALKER_RP\msfc_military\, DZ_Anims_Cfg in DZ\anims\cfg\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\, DZ_Scripts in scripts\
+  MSFC_AK_ALFA in MSFC_3D_Models\ak_alfa\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\
+  OP_BaseBuilding in OP_BaseItems\assets\building\
+  MSFC_Other_Uniform in MSFC_Other_Uniform\msfc_re\
+  MSFC_MULTICAM_SNOW in MSFC_MULTICAM_SNOW\, JM_CF_GUI in JM\CF\GUI\
+  Odins_Waffen in Odins_Waffen\, MSFC_AR15 in MSFC_3D_Models\ar15\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\
+  VehicleActivityLogs_scripts in VehicleActivityLogs\
+  MSFC_ATACS_FG in MSFC_ATACS_FG\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  MSFC_AK_ATTACHMENTS in MSFC_3D_Models\ak_attachments\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  MSFC_AK15MR in MSFC_3D_Models_Two\ak15mr\, GDZ_Codelock in CodeLock\codelock\
+  DZ_Gear_Consumables in DZ\gear\consumables\
+  MSFC_BERETS in MSFC_Other_Uniform\msfc_headgear\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\, DZ_AI in DZ\AI\
+  OP_Dirtmound in OP_BaseItems\assets\dirtmound\, DZ_Gear_Books in DZ\gear\books\
+  MSFC_SURPAT in MSFC_Items\msfc_testing\hiddentexfromdayz\
+  DZ_Data_Bliss in DZ\data_bliss\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  MSFC_WEPRKM in MSFC_Items\msfc_testing\wepr_km\
+  DZ_Structures_Rail in DZ\structures\rail\
+  MSFC_Cadpad in MSFC_Other_Uniform\msfc_cadpad\
+  BuildAnywhere_scripts in BuildAnywhere\, MSFC_MULTICAM in MSFC_MULTICAM\
+  DZ_Characters_Vests in MSFC_3D_Models\tac_tec_vest\, DZ_Water in DZ\water\
+  DZ_Vehicles_Wheeled in MSFC_Vehicles\niva\, MSFC_AK15 in MSFC_3D_Models\ak15\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  OP_Assets in OP_BaseItems\assets\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Structures_Walls in DZ\structures\walls\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  MSFC_RUS_MILITARY in MSFC_Other_Uniform\msfc_rusmilitary\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\, MSFC_ATACS_AU in MSFC_ATACS_AU\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  DZ_Characters_Glasses in DZ\characters\glasses\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\, DC_Banking in DC_Banking\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  OP_Water in OP_BaseItems\assets\waterbarrel\
+  DZ_Gear_Crafting in DZ\gear\crafting\, DZ_Gear_Camping in DZ\gear\camping\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  MSFC_RPK74 in MSFC_3D_Models\rpk74\, DZ_AI_Bliss in DZ\AI_bliss\
+  FlipTransport in fliptransport\, MSFC in MSFC_Items\msfc_predmet\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Structures_Wrecks in DZ\structures\wrecks\
+  MSFC_HeadGear in MSFC_3D_Models_Two\pathch\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  DZ_Characters_Zombies in DZ\characters\zombies\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DisableBaseDestruction_scripts in DisableBaseDestruction\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  BannerColorBase in OP_BaseItems\assets\banner_colorbase\
+  MSFC_AR15_9mm in MSFC_3D_Models_Three\ar15_9mm\, DZ_Data in DZ\data\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Sounds_Effects in DZ\sounds\hpp\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  DZ_Water_Bliss in DZ\water_bliss\, DZ_Structures_Roads in DZ\structures\roads\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  MSFC_WEAPON in MSFC_Items\msfc_testing\tigr308\, DZ_Surfaces in DZ\surfaces\
+  MSFC_Weapon in MSFC_Items\msfc_testing\saiga_mk\
+  DZ_Gear_Cooking in DZ\gear\cooking\, MSFC_AK12M in MSFC_3D_Models\ak13m\
+  MSFC_TacAR15 in MSFC_3D_Models\tactical_ar15\, DZ_Weapons_Misc in DZ\weapons\misc\
+  MSFC_AK103 in MSFC_3D_Models\ak103\, RPC_Scripts in JM\CF\Legacy\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  DZ_Characters_Headgear in MSFC_3D_Models\gasmaskm50\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\
+  DZ_Rocks_Bliss in DZ\rocks_bliss\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  OP_Lock in OP_BaseItems\assets\lock\
+  VehicleSlotPlus_Script in SPK\VehicleSlotPlus\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  MSFC_BAGS_3D in MSFC_3D_Models\cargobagpack\
+  MSFC_AS_VAL in MSFC_3D_Models\as_val\, DZ_Characters_Pants in DZ\characters\pants\
+  JM_COT_GUI in JM\COT\gui\, DZ_Pistols_DE in DZ\weapons\pistols\de\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  DZ_Spawn_Proxies in DZ\data\proxies\, DZ_UI in DZ\ui\
+  DZ_Structures_Military in DZ\structures\military\, DZ_Rocks in DZ\rocks\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\
+  DZ_Gear_Containers in DZ\gear\containers\
+  MSFC_MULTICAM_BLACK in MSFC_MULTICAM_BLACK\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  BuilderItems_Wrecks in MSFC_3D_Models\mapobjects\
+  DZ_Structures in DZ\structures\data\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  DZ_Weapons_Melee_Blade in MSFC_3D_Models_Three\downrangetomahawk\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  VanillaPlusPlus in VanillaPPMap\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  DZ_Surfaces_Bliss in DZ\surfaces_bliss\, DZ_Gear_Tools in DZ\gear\tools\
+  ServerPanel_Scripts in ServerPanel\, DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  MSFC_ATTACHMENTS in MSFC_WEAPONS\wp_kryptek_mandrake\attach\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  MSFC_AK15M in MSFC_3D_Models\ak15m\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  BuilderItems_Furniture in MSFC_3D_Models\msfc_flags\pole\
+  MSFC_HK416 in MSFC_3D_Models\hk416\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  MSFC_TacAR15_SBR in MSFC_3D_Models\tactical_ar15_sbr\
+  MSFC_BAGS in MSFC_3D_Models\militarybigback\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  MSFC_STALKER_Dolg in MSFC_STALKER_RP\msfc_dolg\
+  Pistol_Case in MSFC_Items\msfc_case\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  DZ_Structures_Ruins in DZ\structures\ruins\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  MSFC_Mossberg590 in MSFC_3D_Models\mossberg590\, DZ_Server_Data in DZ\server\
+  trader in TM\Trader\, MSFC_BlackEagleII in MSFC_3D_Models\blackeagleii\
+  MSFC_BlackCamo in MSFC_Other_Uniform\msfc_blackcamo\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  DZ_Gear_Optics in DZ\gear\optics\, MSFC_ORSIS_T5000 in MSFC_3D_Models\orsis_t5000\
+  DZ_Characters_Heads in DZ\characters\heads\
+  UnlimitedStaminaScipts in UnlimitedStamina\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\, MSFC_M16A4 in MSFC_3D_Models\m16a4\
+  JM_COT_Scripts in JM\COT\scripts\, DZ_Weapons_Explosives in DZ\weapons\explosives\
+  JM_CF_Scripts in JM\CF\Scripts\, DZ_Gear_Medical in MSFC_Items\msfc_medkit\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  DZ_Animals_Bliss in DZ\animals_bliss\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  MSFC_ADMIN_GUN in MSFC_Items\msfc_testing\admin_gun\, DZ_Radio in DZ\gear\radio\
+  MSFC_SCRIPTS in MSFC_Scripts\, MSFC_WarBelt in MSFC_3D_Models_Three\g3_pants\
+  MSFC_Glock19 in MSFC_Items\msfc_testing\for_mags\glock\
+  MSFC_BARMAN in MSFC_Other_Uniform\msfc_barman\
+  DZ_Vehicles_Parts in DZ\vehicles\parts\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\
+  DZ_Gear_Drinks in MSFC_3D_Models_Three\bottle_pouch\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  DZ_Structures_Signs in DZ\structures\signs\
+  MSFC_DigitalNavy in MSFC_Other_Uniform\msfc_us_digital\
+  DZ_Gear_Traps in DZ\gear\traps\, MSFCstulker in MSFC_Other_Uniform\msfc_aor2\
+  OP_Gardenbox in OP_BaseItems\assets\gardenbox\
+  MSFC_AK12MR in MSFC_3D_Models_Two\ak12mr\, DZ_Sounds_Bliss in DZ\sounds_bliss\
+  CodeLock in CodeLock\, DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  MSFC_SigSauerP250 in MSFC_3D_Models_Three\sigsauerp250\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\, MSFC_SCAR17 in MSFC_3D_Models\scar17\
+  DZ_Gear_Navigation in DZ\gear\navigation\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  OP_Clock in OP_BaseItems\assets\opclock\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DZ_Gear_Food in MSFC_Items\msfc_food\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\, Odins_Stube in Odins_Stube\
+  DZ_Animals in DZ\animals\
+  DropItemsBeforeDyingScipts in Lucian\DropItemsBeforeDying\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  MSFC_STALKER_Merc in MSFC_STALKER_RP\msfc_merc\
+  MSFC_STALKER_Svoboda in MSFC_STALKER_RP\msfc_svoboda\
+  MSFC_BAGS_AU in MSFC_ATACS_AU\bag\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\, DZ_ModuleZ in DZ\modulesDayz\
+  MSFC_TRADER in MSFC_Other_Uniform\msfc_trader\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  DZ_Characters_Tops in DZ\characters\tops\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Plants_Bliss in DZ\plants_bliss\, NDS_Scripts in NDS_Scripts\Scripts\
+  MSFC_STALKER_Monolit in MSFC_STALKER_RP\msfc_monolit\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Weapons_Optics in MSFC_3D_Models_Three\barret50bmg\optic\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Pistols in DZ\weapons\pistols\, stulker in MSFC_Civil_Clothes\retex\
+  DZ_Characters_Shoes in DZ\characters\shoes\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  MSFC_STALKER_ClearSky in MSFC_STALKER_RP\msfc_clearsky\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  DZ_Characters_Masks in DZ\characters\masks\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  MSFC_Zombies in MSFC_Zombies\, DZ_Worlds_Enoch in DZ\worlds\enoch\world\
+  DZ_Plants in DZ\plants\, DZ_Nonlethal in DZ\weapons\nonlethal\
+  OP_WoodStorage in OP_BaseItems\assets\woodstorage\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  OP_BaseItems in OP_BaseItems\, MSFC_RPK16 in MSFC_3D_Models_Two\rpk16\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Structures_Residential in DZ\structures\residential\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  CS_WeaponSkins in MSFC_Items\msfc_testing\for_mags\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  OP_Tents in OP_BaseItems\assets\tentbase\
+  MSFC_TacticalBelt in MSFC_3D_Models\tacticalbelt\small\
+  DZ_Characters in DZ\characters\data\
+  MSFC_MULTICAM_Tropic in MSFC_MULTICAM_TROPIC\
+  DZ_Weapons_Melee in DZ\weapons\melee\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+Mods: @OP_BaseItems
+Version 1.06.152859
+Fault address:  F3D96D58 00:F3D96D58 Unknown module
+file:     dayzOffline
+world:    chernarusplus
+Prev. code bytes: F0 E8 F2 A2 1B 00 48 8B E8 48 83 CB FF 48 FF C3
+Fault code bytes: 80 3C 03 00 75 F7 48 85 ED 0F 84 BE 00 00 00 85
+=======================================================
+note: Minidump has been generated into the file C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\DayZServer_x64_2020-01-13_11-27-37_2020-01-13_11-30-26.mdmp

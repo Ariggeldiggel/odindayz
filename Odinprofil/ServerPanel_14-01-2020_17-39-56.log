@@ -1,0 +1,11 @@
+---------------------------------------------
+ServerPanel log started at 14.01.2020 17:39:56
+
+14.01.2020 17:39:56 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+14.01.2020 17:39:56 [ServerPanelConfig]: Reading Server Config
+14.01.2020 17:39:56 [ServerPanelConfig]: ConfigRequest
+14.01.2020 17:42:39 [ServerPanelI]: little_demon (D0iI-9-xwvcL2ZQispSEXeAS7C7zuts3YAqvI-NfXOM=) - Config sync
+14.01.2020 18:16:36 [ServerPanelI]: little_demon (D0iI-9-xwvcL2ZQispSEXeAS7C7zuts3YAqvI-NfXOM=) - Config sync
+14.01.2020 18:20:56 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Config sync
+14.01.2020 18:21:21 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+14.01.2020 18:29:19 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync

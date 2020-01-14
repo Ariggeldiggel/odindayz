@@ -1,0 +1,49 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2019-12-30_13-37-34.log started at 30.12. 16:02:38
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 30.12 2019 16:02:38
+
+recipe invalid, not 'IsRecipeAnywhere' and neither ingredience is in hands
+Class:      'OpenCan'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/classes\recipes\recipebase.c:477
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:414
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:290
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:140
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:203
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuouscraft.c:52
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:60
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:339
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 30.12 2019 16:02:56
+
+recipe invalid, not 'IsRecipeAnywhere' and neither ingredience is in hands
+Class:      'OpenCan'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/classes\recipes\recipebase.c:477
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:414
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:290
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:140
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:203
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuouscraft.c:52
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:60
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:339
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

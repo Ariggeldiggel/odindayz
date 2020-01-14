@@ -1,0 +1,63 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\script_2019-12-30_13-19-59.log started at 30.12. 13:20:01
+
+SCRIPT       : Registered 238 temporary action enum(s), UAN==238
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CreateLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerLoadMatchInfo'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.CancelSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.SetLobbySlot'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.DeleteLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinLobby'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartLobbyGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerReadyServer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LeaveTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.LoadLobbyList'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.JoinTeam'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetUserUID'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.ReadyLobbyPlayer'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GetService'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.GameServerFinishGame'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.InviteFriend'
+SCRIPT    (W): @"scripts/3_Game/systems\inventory\handfsm.c,100": Missing script declaration for method 'SgNetworkService.StartSearchForMatch'
+SCRIPT    (W): @"scripts/3_Game/human.c,1028": Missing script declaration for method 'HumanCommandScript.PostPhys_LockRotation'
+SCRIPT    (W): @"scripts/3_Game/human.c,284": Method not linked 'HumanAnimInterface.SetInt'
+SCRIPT    (W): @"scripts/3_Game/human.c,285": Method not linked 'HumanAnimInterface.SetBool'
+SCRIPT    (W): @"scripts/3_Game/human.c,280": Method not linked 'HumanAnimInterface.CallCommand'
+SCRIPT    (W): @"scripts/3_Game/human.c,283": Method not linked 'HumanAnimInterface.SetFloat'
+SCRIPT    (W): @"scripts/3_Game/entities\inventoryitem.c,116": Unsafe down-casting, use 'Object.Cast' for safe down-casting
+SCRIPT       : CreateGame()
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : DZM_Projects Map! by DaOne
+SCRIPT    (W): @"scripts/4_World/entities\dayzplayerimplement.c,27": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"CodeLock\scripts\4_world/actions\interact\actionpacktent.c,3": Unsafe down-casting, use 'TentBase.Cast' for safe down-casting
+SCRIPT    (W): @"CodeLock\scripts\4_world/actions\interact\actionpacktent.c,16": Unsafe down-casting, use 'TentBase.Cast' for safe down-casting
+SCRIPT    (W): @"CodeLock\scripts\4_world/actions\interact\actioninteractlockonfence.c,61": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"CodeLock\scripts\4_world/actions\interact\actioninteractlockonfence.c,71": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"CodeLock\scripts\4_world/actions\interact\actioninteractlockonfence.c,74": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"CodeLock\scripts\4_world/actions\interact\actiontoggletentopen.c,4": Unsafe down-casting, use 'TentBase.Cast' for safe down-casting
+SCRIPT    (W): @"CodeLock\scripts\4_world/actions\interact\actioninteractlockontent.c,63": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"CodeLock\scripts\4_world/actions\interact\actioninteractlockontent.c,73": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"CodeLock\scripts\4_world/actions\interact\actioninteractlockontent.c,76": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\staticfunctions.c,18": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,133": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,139": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,152": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,170": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,178": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,184": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,195": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,207": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,216": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,266": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,272": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,275": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,283": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,779": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,883": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,885": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,1074": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,1124": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,1143": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"TM/Trader/scripts/4_World/entities\dayzplayerimplement.c,1204": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting

@@ -1,0 +1,133 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2019-12-28_12-47-18.log started at 28.12. 18:01:22
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 28.12 2019 18:01:22
+
+[wpnfsm] FNX45:016574 WeaponReplacingMagAndChamberNext, error - no magazines configured for replace (m_old=m_new=NULL)
+Class:      'WeaponReplacingMagAndChamberNext'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/entities\firearms\fsm\states\weaponreplacingmagandchambernext.c:416
+scripts/3_Game/systems\hfsmbase.c:446
+scripts/3_Game/systems\hfsmbase.c:474
+scripts/3_Game/systems\hfsmbase.c:362
+scripts/4_World/entities\firearms\weapon_base.c:156
+scripts/4_World/systems\inventory\dayzplayerinventory.c:157
+scripts/4_World/entities\dayzplayerimplement.c:580
+scripts/4_World/entities\dayzplayerimplement.c:1620
+scripts/4_World/entities\manbase\playerbase.c:2091
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 28.12 2019 18:01:23
+
+[wpnfsm] FNX45:016574 DetachOldMagazine, error - no magazines configured for replace (m_old=m_oldSrc=NULL)
+Class:      'DetachOldMagazine'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/entities\firearms\fsm\states\weaponreplacingmagandchambernext.c:53
+scripts/3_Game/systems\hfsmbase.c:437
+scripts/3_Game/systems\hfsmbase.c:474
+scripts/3_Game/systems\hfsmbase.c:362
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83
+scripts/3_Game/systems\hfsmbase.c:328
+scripts/4_World/entities\firearms\weapon_base.c:156
+scripts/4_World/systems\inventory\dayzplayerinventory.c:135
+scripts/4_World/entities\dayzplayerimplement.c:580
+scripts/4_World/entities\dayzplayerimplement.c:1620
+scripts/4_World/entities\manbase\playerbase.c:2091
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 28.12 2019 18:01:23
+
+[wpnfsm] FNX45:016574 SwapOldAndNewMagazine, error - m_newMagazine(NULL) or destination(InventoryLocation) is not set 
+Class:      'SwapOldAndNewMagazine'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/entities\firearms\fsm\states\weaponreplacingmagandchambernext.c:114
+scripts/3_Game/systems\hfsmbase.c:446
+scripts/3_Game/systems\hfsmbase.c:474
+scripts/3_Game/systems\hfsmbase.c:362
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83
+scripts/3_Game/systems\hfsmbase.c:328
+scripts/4_World/entities\firearms\weapon_base.c:156
+scripts/4_World/systems\inventory\dayzplayerinventory.c:135
+scripts/4_World/entities\dayzplayerimplement.c:580
+scripts/4_World/entities\dayzplayerimplement.c:1620
+scripts/4_World/entities\manbase\playerbase.c:2091
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 28.12 2019 21:55:36
+
+[cheat] HandleInputData man=SurvivorM_Hassan:014 STS=592934 is cheating with cmd=HAND_EVENT event={ HandEventMoveTo id=MOVETO pl=SurvivorM_Mirek:016 src={ type=HANDS item=MediumTent:07444 parent=SurvivorM_Mirek:016 } dst={ type=CARGO item=MediumTent:07444 parent=MSFC_BIG_BACKPACK_MulticamBlack:012785 idx=0 row=6 col=0 f=false } }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:394
+scripts/4_World/systems\inventory\dayzplayerinventory.c:291
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 29.12 2019 01:05:08
+NULL pointer to instance
+Class:      'PermissionManager'
+Function: 'HasPermission'
+Stack trace:
+JM/COT/Scripts/4_World/communityonlinetools\permissions-framework\permissionmanager.c:114
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\camera\cameratool.c:91
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:244
+scripts/3_Game/dayzgame.c:2376
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 29.12 2019 01:05:52
+NULL pointer to instance
+Class:      'PermissionManager'
+Function: 'HasPermission'
+Stack trace:
+JM/COT/Scripts/4_World/communityonlinetools\permissions-framework\permissionmanager.c:114
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\camera\cameratool.c:91
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:244
+scripts/3_Game/dayzgame.c:2376
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 29.12 2019 01:05:52
+NULL pointer to instance
+Class:      'PermissionManager'
+Function: 'HasPermission'
+Stack trace:
+JM/COT/Scripts/4_World/communityonlinetools\permissions-framework\permissionmanager.c:114
+JM/COT/Scripts/5_Mission/communityonlinetools\modules\camera\cameratool.c:91
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:244
+scripts/3_Game/dayzgame.c:2376
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

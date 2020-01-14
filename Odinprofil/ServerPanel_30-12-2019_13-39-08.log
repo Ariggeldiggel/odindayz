@@ -1,0 +1,28 @@
+---------------------------------------------
+ServerPanel log started at 30.12.2019 13:39:08
+
+30.12.2019 13:39:08 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+30.12.2019 13:39:08 [ServerPanelConfig]: Reading Server Config
+30.12.2019 13:39:08 [ServerPanelConfig]: ConfigRequest
+30.12.2019 13:42:16 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 13:52:51 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 14:56:20 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 15:08:27 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+30.12.2019 15:15:25 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Config sync
+30.12.2019 15:32:28 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 15:34:16 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+30.12.2019 15:45:58 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+30.12.2019 15:46:01 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+30.12.2019 15:46:12 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Player Stats sync
+30.12.2019 15:46:19 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+30.12.2019 15:46:20 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+30.12.2019 15:47:11 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Player Stats sync
+30.12.2019 15:48:20 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+30.12.2019 15:49:35 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+30.12.2019 15:49:39 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+30.12.2019 15:49:50 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+30.12.2019 15:50:16 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+30.12.2019 16:32:27 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+30.12.2019 16:33:57 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 17:01:00 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+30.12.2019 17:49:13 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync

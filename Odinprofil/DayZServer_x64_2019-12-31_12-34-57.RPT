@@ -1,0 +1,111 @@
+
+
+=====================================================================
+== C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\DayZServer_x64.exe
+== "C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\DayZServer_x64.exe" "-config=serverDZ.cfg" "-port=2303" "-mod=@CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems" "-ip=185.223.30.146" "-profiles=C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil"
+=====================================================================
+Exe timestamp: 2019/12/26 17:44:56
+Current time:  2019/12/31 12:35:20
+
+Version 1.06.152859
+12:35:20.951 [Inputs] Loading inputs default "bin/constants.xml"
+12:35:20.968 [Inputs] Loading inputs default "bin/specific.xml"
+12:35:20.971 [Inputs] Loading inputs default "JM/COT/scripts/Data/Inputs.xml"
+12:35:20.974 [Inputs] Loading inputs default "ServerPanel/SP_inputs.xml"
+12:35:20.976 [Inputs] Loading inputs default "VanillaPPMap/data/modded_Inputs.xml"
+12:35:20.984 [Inputs] Loading inputs default "A3_UI_F/Scripts/Inputs.xml"
+12:35:20.989 [Inputs] Loading inputs cfg "C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\Users\Survivor\Server.core.xml"
+12:35:21.25 [Inputs] Exporting inputs cfg "C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\Users\Survivor\Server.core.xml"
+12:37:19.15 [CE][Hive] :: Initializing OFFLINE
+12:37:19.16 [CE][Hive] :: Loading core data ... 
+12:37:19.24 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+12:37:39.308 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+12:37:39.317 [CE][TypeSetup] :: 408 classes setuped...
+12:37:40.944 [CE][RegisterBind] :: 0 classes binded...
+12:37:40.945 [CE][RegisterConfig] :: 5156 config classes registered, 1 sub-counters...
+12:37:40.948 [CE][Hive] :: Loading map data ... 
+12:37:41.210 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.210 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.211 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.211 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.211 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.211 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.212 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.212 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.212 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.213 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.213 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.213 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.214 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.214 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.214 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.214 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.215 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.216 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.216 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.217 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.217 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.217 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.218 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.218 !!! [CE] :: Unknown category: 'vehicleparts'.
+12:37:41.218 [CE][LoadPrototype] :: loaded 316 prototypes
+12:37:41.219   668 containers, 8849 points
+12:37:41.219   24 dispatches, 90 proxies
+12:37:41.220 !!! [CE][LoadPrototype] 11 groups have no points...
+12:37:41.220 !!![CE][LoadPrototype]  3 groups have wrong points...
+12:37:41.220 [CE][LoadPrototype] :: last group name: Land_Wreck_sed02_aban2_red...
+12:37:41.252 [CE][LoadPrototype] :: loaded 0 prototypes
+12:37:41.255   0 containers, 0 points
+12:37:41.256   0 dispatches, 0 proxies
+12:37:41.257 [CE][LoadPrototype] :: last group name: Rail9...
+12:37:44.824 [CE][LoadMap] "Group" :: loaded 11613 groups, largest group range: 34.2
+12:37:44.849 !!! File "DZ\worlds\chernarusplus\ce\mapgroupdirt.xml" does not exist...
+12:37:44.852 !!! [CE][LoadMap] "Dirt" :: Failed to read group instances (DZ\worlds\chernarusplus\ce\mapgroupdirt.xml)
+12:37:47.164 [CE][Links] found 1974 total links between groups, of 11613
+12:37:47.164 [CE][LoadClusters] "Cluster" :: Loading files...
+12:37:48.374 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+12:37:49.606 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+12:37:50.851 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+12:37:52.73 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+12:37:52.551 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17185 instances
+12:37:52.588 [CE][Storage] ver:21 stamp:8971, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+12:37:52.608 [CE][Storage] ver:21 stamp:8969, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+12:37:52.648 [CE][Storage] ver:21 stamp:8970, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+12:37:52.651 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+12:37:53.23 [CE][offlineDB] :: Loaded 37 dynamic events 216 total types 0 total positions.
+12:37:53.183 [CE][Storage] ver:21 stamp:8971, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+12:37:53.189 [CE][Storage] ver:21 stamp:8969, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+12:37:53.198 [CE][Storage] ver:21 stamp:8970, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+12:37:53.199 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+12:37:53.199 [CE][DynamicEvent] Load  Events:[37] Primary spawners: 37 Secondary spawners: 1
+12:37:53.211 [CE][Storage] ver:24 stamp:8971, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+12:37:53.225 [CE][Storage] ver:24 stamp:8969, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+12:37:53.238 [CE][Storage] ver:24 stamp:8970, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+12:37:53.241 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 85 items.
+12:37:53.797   85 items loaded.
+12:37:53.811 [CE][Storage] ver:24 stamp:8971, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+12:37:53.825 [CE][Storage] ver:24 stamp:8969, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+12:37:53.831 [CE][Storage] ver:24 stamp:8970, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+12:37:53.841 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 571 items.
+12:37:56.425   571 items loaded.
+12:37:56.444 [CE][Storage] ver:24 stamp:8971, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+12:37:56.463 [CE][Storage] ver:24 stamp:8969, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+12:37:56.490 [CE][Storage] ver:24 stamp:8970, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+12:37:56.495 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1250 items.
+12:37:58.789   1250 items loaded.
+12:37:58.804 [CE][Storage] ver:24 stamp:8971, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+12:37:58.821 [CE][Storage] ver:24 stamp:8969, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+12:37:58.836 [CE][Storage] ver:24 stamp:8970, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+12:37:58.839 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2140 items.
+12:38:04.888   2140 items loaded.
+12:38:04.901 [CE][Storage] ver:24 stamp:8971, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+12:38:04.934 [CE][Storage] ver:24 stamp:8969, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+12:38:04.950 [CE][Storage] ver:24 stamp:8970, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+12:38:04.952 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 1657 items.
+12:38:07.489   1657 items loaded.
+12:38:07.527 [CE][Storage] ver:24 stamp:8971, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+12:38:07.539 [CE][Storage] ver:24 stamp:8969, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+12:38:07.559 [CE][Storage] ver:24 stamp:8970, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+12:38:07.561 [CE][Storage] Restoring file "mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1551 items.
+12:38:09.850   1551 items loaded.
+12:38:09.864 [CE][Storage] ver:24 stamp:8971, valid:yes, name:"mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"

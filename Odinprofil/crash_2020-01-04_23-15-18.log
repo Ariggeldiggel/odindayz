@@ -1,0 +1,43 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2020-01-04_23-15-18.log started at 05.01. 12:46:55
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 05.01 2020 12:46:55
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=AmmoBox_556x45_20Rnd:023339 parent=MSFCSmershBagMedicMulticamBlack:019339 idx=0 row=2 col=3 f=false }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 05.01 2020 14:10:57
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=MSFCGorkaJMulticamBlackNoPatch:013353 parent=DenimJacket:09378 idx=0 row=2 col=0 f=false }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

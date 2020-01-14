@@ -1,0 +1,26 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2020-01-06_15-25-52.log started at 06.01. 21:05:08
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 06.01 2020 21:05:08
+
+failed to spawn entity BarrelHoles_ , make sure the classname exists and item can be spawned
+Class:      'PokeHolesBarrel'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/classes\recipes\recipebase.c:215
+scripts/4_World/classes\recipes\recipebase.c:527
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:304
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:140
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:203
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuouscraft.c:52
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:60
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:339
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

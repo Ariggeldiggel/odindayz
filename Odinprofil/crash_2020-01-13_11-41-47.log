@@ -1,0 +1,41 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2020-01-13_11-41-47.log started at 14.01. 15:12:54
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 14.01 2020 15:12:54
+
+failed to spawn entity BarrelHoles_ , make sure the classname exists and item can be spawned
+Class:      'PokeHolesBarrel'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/classes\recipes\recipebase.c:215
+scripts/4_World/classes\recipes\recipebase.c:527
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:304
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:140
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:203
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuouscraft.c:52
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:60
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:339
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 14.01 2020 16:41:02
+
+[cheat] HandleInputData man=SurvivorM_Oliver:013 is cheating with cmd=SYNC_MOVE src={ type=GROUND item=BalaclavaMask_White:023516 pos=(8433.01, 7.40114, 2917.54) dir=(-0.412924, 0.577447, 0.573373, 0.408988) } dst={ type=ATTACHMENT item=BalaclavaMask_White:023516 parent=SurvivorM_Oliver:013 slot=5658332 }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:344
+scripts/4_World/systems\inventory\dayzplayerinventory.c:257
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

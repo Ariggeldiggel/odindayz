@@ -1,0 +1,54 @@
+---------------------------------------------
+ServerPanel log started at 29.12.2019 12:15:33
+
+29.12.2019 12:15:33 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+29.12.2019 12:15:33 [ServerPanelConfig]: Reading Server Config
+29.12.2019 12:15:33 [ServerPanelConfig]: ConfigRequest
+29.12.2019 12:21:24 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+29.12.2019 12:22:55 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Config sync
+29.12.2019 12:30:45 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+29.12.2019 13:00:18 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+29.12.2019 13:00:26 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+29.12.2019 13:27:18 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+29.12.2019 13:27:32 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+29.12.2019 14:03:53 [ServerPanelI]: Survivor (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Config sync
+29.12.2019 14:11:03 [ServerPanelI]: Survivor (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Player Stats sync
+29.12.2019 14:43:45 [ServerPanelI]: Survivor (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Config sync
+29.12.2019 16:04:47 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+29.12.2019 16:10:11 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Config sync
+29.12.2019 16:10:49 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+29.12.2019 16:12:19 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+29.12.2019 16:14:31 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+29.12.2019 16:22:56 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+29.12.2019 16:49:03 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+29.12.2019 17:09:37 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+29.12.2019 17:11:55 [ServerPanelI]: Survivor (fS7SJlvinpCIb0lnEZV83X-YcwrE5Sz5-_sqIrfDs24=) - Config sync
+29.12.2019 17:18:30 [ServerPanelI]: Jakl (1ep4EYRNc0msvgG19C-6p7psqdZOyxploZqSLoq14zw=) - Config sync
+29.12.2019 17:19:44 [ServerPanelI]: Jakl (1ep4EYRNc0msvgG19C-6p7psqdZOyxploZqSLoq14zw=) - Config sync
+29.12.2019 17:49:41 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+29.12.2019 17:58:30 [ServerPanelI]: Jakl (1ep4EYRNc0msvgG19C-6p7psqdZOyxploZqSLoq14zw=) - Config sync
+29.12.2019 18:52:23 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+29.12.2019 20:11:39 [ServerPanelI]: Survivor (fS7SJlvinpCIb0lnEZV83X-YcwrE5Sz5-_sqIrfDs24=) - Config sync
+29.12.2019 20:23:51 [ServerPanelI]: Survivor (fS7SJlvinpCIb0lnEZV83X-YcwrE5Sz5-_sqIrfDs24=) - Config sync
+29.12.2019 20:27:52 [ServerPanelI]: Survivor (2) (0Hcy3-f1MHOMqKR75_5CSpKlqxTACPtuGyGB3aTI5v4=) - Config sync
+29.12.2019 21:51:49 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+29.12.2019 21:55:53 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+29.12.2019 22:18:07 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+29.12.2019 22:53:02 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+29.12.2019 22:54:25 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+29.12.2019 23:06:48 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+29.12.2019 23:17:18 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 00:25:42 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+30.12.2019 00:41:35 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+30.12.2019 00:55:55 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 01:07:10 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 01:09:38 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 01:11:43 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 01:12:56 [ServerPanelI]: Survivor (2) (X7t2AxgfoPPsUQKdqOaG0HzsHZUtOY0-1dx5NkwsFxc=) - Config sync
+30.12.2019 01:13:41 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 01:15:57 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 01:20:36 [ServerPanelI]: Sascha Klein (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+30.12.2019 01:30:55 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+30.12.2019 01:56:07 [ServerPanelI]: Survivor (2) (X7t2AxgfoPPsUQKdqOaG0HzsHZUtOY0-1dx5NkwsFxc=) - Config sync
+30.12.2019 02:03:37 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+30.12.2019 02:35:28 [ServerPanelI]: Survivor (X7t2AxgfoPPsUQKdqOaG0HzsHZUtOY0-1dx5NkwsFxc=) - Config sync

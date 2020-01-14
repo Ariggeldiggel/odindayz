@@ -1,0 +1,47 @@
+---------------------------------------------
+ServerPanel log started at 12.01.2020 11:18:38
+
+12.01.2020 11:18:38 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+12.01.2020 11:18:38 [ServerPanelConfig]: Reading Server Config
+12.01.2020 11:18:38 [ServerPanelConfig]: ConfigRequest
+12.01.2020 11:21:21 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Config sync
+12.01.2020 11:22:33 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Player Stats sync
+12.01.2020 11:34:01 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Player Stats sync
+12.01.2020 11:34:17 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Player Stats sync
+12.01.2020 13:07:26 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Config sync
+12.01.2020 13:31:08 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+12.01.2020 13:59:12 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+12.01.2020 14:27:18 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+12.01.2020 14:51:12 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+12.01.2020 15:05:08 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+12.01.2020 15:06:12 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 15:15:16 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+12.01.2020 15:28:09 [ServerPanelI]: PikaPika (NbldA2pyNfmHG2dTP7teIAuqZcst9jSsznSjiTkzuK4=) - Config sync
+12.01.2020 15:35:38 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 15:40:28 [ServerPanelI]: MeS-YoDa (loIvg5XBCt7vR-pS3_LPqpio3kUFtzwJhd80OC6V1VM=) - Config sync
+12.01.2020 15:43:22 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 16:02:44 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+12.01.2020 16:05:21 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 16:26:08 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 16:37:24 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Player Stats sync
+12.01.2020 16:44:28 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+12.01.2020 16:46:32 [ServerPanelI]: MeS-YoDa (loIvg5XBCt7vR-pS3_LPqpio3kUFtzwJhd80OC6V1VM=) - Config sync
+12.01.2020 16:49:15 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+12.01.2020 16:54:27 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 17:05:40 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Config sync
+12.01.2020 17:11:22 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+12.01.2020 17:11:47 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+12.01.2020 17:12:00 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+12.01.2020 17:17:01 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 17:17:49 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+12.01.2020 17:18:59 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 17:22:33 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 17:24:00 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 17:37:33 [ServerPanelI]: Dschulsii (fS7SJlvinpCIb0lnEZV83X-YcwrE5Sz5-_sqIrfDs24=) - Config sync
+12.01.2020 17:39:38 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+12.01.2020 17:40:22 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 17:43:05 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 17:44:12 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+12.01.2020 17:44:41 [ServerPanelI]: Siege2k (1VjXpHrxoEOuo-hTZuRmzJYcA3NLzCVGWRfWfKOvDWA=) - Config sync
+12.01.2020 17:56:31 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+12.01.2020 17:58:38 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync

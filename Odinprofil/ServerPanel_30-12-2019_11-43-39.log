@@ -1,0 +1,8 @@
+---------------------------------------------
+ServerPanel log started at 30.12.2019 11:43:39
+
+30.12.2019 11:43:39 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+30.12.2019 11:43:39 [ServerPanelConfig]: Reading Server Config
+30.12.2019 11:43:39 [ServerPanelConfig]: ConfigRequest
+30.12.2019 11:46:48 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 11:47:13 [ServerPanelI]: Survivor (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync

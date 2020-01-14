@@ -1,0 +1,63 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2019-12-27_22-52-30.log started at 28.12. 00:50:59
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 28.12 2019 00:50:59
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=Ammo_45ACP:018233 parent=MSFCGorkaJMulticamSnowNoPatch:023258 idx=0 row=5 col=4 f=false }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 28.12 2019 00:51:13
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=Ammo_45ACP:05645 parent=MSFCGorkaJMulticamSnowNoPatch:023258 idx=0 row=5 col=5 f=false }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 28.12 2019 00:51:47
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=Mag_STANAG_30Rnd:05975 parent=MSFCEmpty_Mags_Bag_MulticamSnow:023292 idx=0 row=0 col=0 f=false }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

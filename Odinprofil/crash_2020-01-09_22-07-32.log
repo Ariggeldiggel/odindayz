@@ -1,0 +1,58 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2020-01-09_22-07-32.log started at 11.01. 00:32:03
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 11.01 2020 00:32:03
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=Mag_1911_7Rnd:014509 parent=MSFCSmershBagMulticamTropic:05672 idx=0 row=0 col=0 f=true }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 11.01 2020 01:05:50
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=CarTent:024867 parent=MSFC_BIG_BACKPACK_MulticamTropic:06218 idx=0 row=0 col=0 f=false }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 11.01 2020 02:07:05
+
+[cheat] HandleInputData man=SurvivorM_Mirek:019 is cheating with cmd=SYNC_MOVE src={ type=CARGO item=Lard:016706 parent=MSFC_BIG_BACKPACK_MulticamTropic:04884 idx=0 row=9 col=2 f=false } dst={ type=CARGO item=Lard:016706 parent=Pot:024751 idx=0 row=0 col=0 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:344
+scripts/4_World/systems\inventory\dayzplayerinventory.c:291
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

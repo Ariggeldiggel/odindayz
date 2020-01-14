@@ -1,0 +1,62 @@
+---------------------------------------------
+ServerPanel log started at 09.01.2020 22:09:22
+
+09.01.2020 22:09:22 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+09.01.2020 22:09:22 [ServerPanelConfig]: Reading Server Config
+09.01.2020 22:09:22 [ServerPanelConfig]: ConfigRequest
+09.01.2020 22:12:26 [ServerPanelI]: Hannibal (-7sfCCDmzSwLSEYa4ZkpMYIxsZV0DW3c5ge_mVbdK-Q=) - Config sync
+09.01.2020 22:39:25 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+09.01.2020 22:47:33 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+10.01.2020 12:42:55 [ServerPanelI]: Hannibal (-7sfCCDmzSwLSEYa4ZkpMYIxsZV0DW3c5ge_mVbdK-Q=) - Config sync
+10.01.2020 13:39:37 [ServerPanelI]: Hannibal (-7sfCCDmzSwLSEYa4ZkpMYIxsZV0DW3c5ge_mVbdK-Q=) - Config sync
+10.01.2020 13:53:28 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+10.01.2020 16:31:53 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Config sync
+10.01.2020 16:33:59 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+10.01.2020 16:44:05 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Config sync
+10.01.2020 16:56:24 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Player Stats sync
+10.01.2020 17:34:19 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+10.01.2020 17:41:25 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+10.01.2020 17:42:09 [ServerPanelI]: Hannibal (-7sfCCDmzSwLSEYa4ZkpMYIxsZV0DW3c5ge_mVbdK-Q=) - Config sync
+10.01.2020 17:44:54 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+10.01.2020 17:46:06 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+10.01.2020 17:52:28 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+10.01.2020 17:56:46 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+10.01.2020 18:06:39 [ServerPanelI]: Hannibal (-7sfCCDmzSwLSEYa4ZkpMYIxsZV0DW3c5ge_mVbdK-Q=) - Player Stats sync
+10.01.2020 18:15:14 [ServerPanelI]: [Odin] Lockett (HXQAqHypeDoPr-xV-C9rWVSW52U8iPXPMA2Du4upLGQ=) - Player Stats sync
+10.01.2020 19:15:31 [ServerPanelI]: Hannibal (-7sfCCDmzSwLSEYa4ZkpMYIxsZV0DW3c5ge_mVbdK-Q=) - Config sync
+10.01.2020 19:51:38 [ServerPanelI]: Hannibal (-7sfCCDmzSwLSEYa4ZkpMYIxsZV0DW3c5ge_mVbdK-Q=) - Config sync
+10.01.2020 21:55:21 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+10.01.2020 21:55:46 [ServerPanelI]: Dschulsii (fS7SJlvinpCIb0lnEZV83X-YcwrE5Sz5-_sqIrfDs24=) - Config sync
+10.01.2020 21:59:43 [ServerPanelI]: OssiFant (0Hcy3-f1MHOMqKR75_5CSpKlqxTACPtuGyGB3aTI5v4=) - Config sync
+11.01.2020 00:08:58 [ServerPanelI]: OssiFant (0Hcy3-f1MHOMqKR75_5CSpKlqxTACPtuGyGB3aTI5v4=) - Config sync
+11.01.2020 00:36:00 [ServerPanelI]: Dschulsii (fS7SJlvinpCIb0lnEZV83X-YcwrE5Sz5-_sqIrfDs24=) - Config sync
+11.01.2020 00:39:56 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+11.01.2020 00:44:39 [ServerPanelI]: dls_ (cXT8zkULvcXakk20k0AWgXHoSWKzDlhnJ23s-qVTSNI=) - Config sync
+11.01.2020 01:09:57 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+11.01.2020 01:38:23 [ServerPanelI]: OssiFant (0Hcy3-f1MHOMqKR75_5CSpKlqxTACPtuGyGB3aTI5v4=) - Config sync
+11.01.2020 02:25:10 [ServerPanelI]: dls_ (cXT8zkULvcXakk20k0AWgXHoSWKzDlhnJ23s-qVTSNI=) - Config sync
+11.01.2020 04:01:11 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+11.01.2020 04:06:21 [ServerPanelI]: OssiFant (0Hcy3-f1MHOMqKR75_5CSpKlqxTACPtuGyGB3aTI5v4=) - Config sync
+11.01.2020 14:30:28 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+11.01.2020 22:52:49 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+11.01.2020 23:10:17 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+11.01.2020 23:10:41 [ServerPanelI]: PikaPika (NbldA2pyNfmHG2dTP7teIAuqZcst9jSsznSjiTkzuK4=) - Config sync
+11.01.2020 23:11:39 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+11.01.2020 23:14:33 [ServerPanelI]: Dschulsii (fS7SJlvinpCIb0lnEZV83X-YcwrE5Sz5-_sqIrfDs24=) - Config sync
+11.01.2020 23:14:44 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+11.01.2020 23:17:48 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+11.01.2020 23:22:17 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+11.01.2020 23:27:29 [ServerPanelI]: OssiFant (0Hcy3-f1MHOMqKR75_5CSpKlqxTACPtuGyGB3aTI5v4=) - Config sync
+11.01.2020 23:31:01 [ServerPanelI]: OssiFant (0Hcy3-f1MHOMqKR75_5CSpKlqxTACPtuGyGB3aTI5v4=) - Config sync
+11.01.2020 23:38:55 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+11.01.2020 23:44:49 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+11.01.2020 23:48:37 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+11.01.2020 23:58:11 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+12.01.2020 00:02:37 [ServerPanelI]: PikaPika (NbldA2pyNfmHG2dTP7teIAuqZcst9jSsznSjiTkzuK4=) - Config sync
+12.01.2020 00:05:04 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+12.01.2020 00:41:10 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+12.01.2020 00:53:05 [ServerPanelI]: Dschulsii (fS7SJlvinpCIb0lnEZV83X-YcwrE5Sz5-_sqIrfDs24=) - Config sync
+12.01.2020 10:36:34 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Config sync
+12.01.2020 10:38:08 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Player Stats sync
+12.01.2020 10:51:53 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Player Stats sync
+12.01.2020 11:00:12 [ServerPanelI]: Final217 (P7oFhzN_WwulmiTJjeoZALwr_3023S-sJLGCsP6UDVM=) - Config sync

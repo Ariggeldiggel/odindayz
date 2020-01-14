@@ -1,0 +1,18 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2019-12-26_21-39-49.log started at 26.12. 22:04:11
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 26.12 2019 22:04:11
+NULL pointer to instance
+Class:      'PermissionManager'
+Function: 'HasPermission'
+Stack trace:
+JM/COT/Scripts/4_World/communityonlinetools\permissions-framework\permissionmanager.c:114
+JM/COT/Scripts/5_Mission/communityonlinetools\permissionsframework.c:246
+JM/CF/Scripts/3_Game/communityframework\rpc\rpcmanager.c:244
+scripts/3_Game/dayzgame.c:2376
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

@@ -1,0 +1,38 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2019-12-29_12-14-13.log started at 29.12. 12:15:33
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 29.12 2019 12:15:33
+
+JSON ERROR:
+Must be a comma or ']' after an array element.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/tools\jsonfileloader.c:29
+ServerPanel/scripts/5_Mission/config\serverpanelserverconfig.c:31
+ServerPanel/scripts/5_Mission/config\serverpanelconfigmanager.c:35
+ServerPanel/scripts/5_Mission/serverpanelcore.c:18
+ServerPanel/scripts/5_Mission/helpers\serverpanelhelpers.c:14
+ServerPanel/scripts/5_Mission/missionserver.c:7
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:101
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 29.12 2019 22:49:46
+
+[cheat] HandleInputData man=SurvivorM_Rolf:014 is cheating with cmd=SYNC_MOVE src={ type=ATTACHMENT item=BeanieHat_Green:016041 parent=SurvivorM_Francis:013 slot=-1445057555 } dst={ type=GROUND item=BeanieHat_Green:016041 pos=(3578.27, 333.925, 6963.67) dir=(0.405295, 0.581704, -0.580255, 0.400824) }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/systems\inventory\dayzplayerinventory.c:344
+scripts/4_World/systems\inventory\dayzplayerinventory.c:257
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@NoVehicleDamage;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@Dingo_Truck;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

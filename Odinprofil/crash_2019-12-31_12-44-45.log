@@ -1,0 +1,205 @@
+---------------------------------------------
+Log C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil\crash_2019-12-31_12-44-45.log started at 31.12. 18:08:54
+
+
+
+------------------------------------
+WIN-7SM163QVH8B, 31.12 2019 18:08:54
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=Mag_STANAG_30Rnd:013412 parent=MSFCGorkaJMulticamBlack:021665 idx=0 row=3 col=2 f=false }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 31.12 2019 18:09:38
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=Mag_STANAG_30Rnd:013412 parent=MSFCGorkaJMulticamBlack:021665 idx=0 row=3 col=2 f=false }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 01.01 2020 02:03:47
+
+[hndfsm] HandGuardHasRoomForItem - no room at dst={ type=CARGO item=Mag_FNX45_15Rnd:06811 parent=MSFCSmershVestMulticamBlack:010477 idx=0 row=0 col=1 f=false }
+Class:      'HandGuardHasRoomForItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/3_Game/systems\inventory\hand_guards.c:184
+scripts/3_Game/systems\inventory\handanimated_guards.c:190
+scripts/3_Game/systems\hfsmbase.c:391
+scripts/3_Game/systems\hfsmbase.c:349
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:97
+scripts/4_World/systems\inventory\dayzplayerinventory.c:227
+scripts/4_World/entities\manbase\playerbase.c:2106
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 03.01 2020 17:07:00
+
+[wpnfsm] MSFC_ORSIS_T5000:018584 chamberFromAttachedMagazine, error - cannot load chamber!
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/entities\firearms\fsm\weapon_utils.c:23
+scripts/4_World/entities\firearms\fsm\states\weaponchamberfromattmag.c:13
+scripts/3_Game/systems\hfsmbase.c:446
+scripts/3_Game/systems\hfsmbase.c:474
+scripts/3_Game/systems\hfsmbase.c:362
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83
+scripts/3_Game/systems\hfsmbase.c:328
+scripts/4_World/entities\firearms\weapon_base.c:156
+scripts/4_World/systems\inventory\dayzplayerinventory.c:135
+scripts/4_World/entities\dayzplayerimplement.c:580
+scripts/4_World/entities\dayzplayerimplement.c:1620
+ServerPanel/scripts/4_World/dayzplayerimplement.c:8
+scripts/4_World/entities\manbase\playerbase.c:2091
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 03.01 2020 23:45:18
+
+[wpnfsm] Mosin9130:07340 chamberFromInnerMagazine, error - cannot load chamber!
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/entities\firearms\fsm\weapon_utils.c:52
+scripts/4_World/entities\firearms\fsm\states\weaponchamberfromattmag.c:32
+scripts/3_Game/systems\hfsmbase.c:446
+scripts/3_Game/systems\hfsmbase.c:474
+scripts/3_Game/systems\hfsmbase.c:362
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83
+scripts/3_Game/systems\hfsmbase.c:328
+scripts/4_World/entities\firearms\weapon_base.c:156
+scripts/4_World/systems\inventory\dayzplayerinventory.c:135
+scripts/4_World/entities\dayzplayerimplement.c:580
+scripts/4_World/entities\dayzplayerimplement.c:1620
+ServerPanel/scripts/4_World/dayzplayerimplement.c:8
+scripts/4_World/entities\manbase\playerbase.c:2091
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 04.01 2020 16:25:48
+
+recipe invalid, not 'IsRecipeAnywhere' and neither ingredience is in hands
+Class:      'PatchItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/classes\recipes\recipebase.c:477
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:414
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:290
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:140
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:203
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuouscraft.c:52
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:60
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:339
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 04.01 2020 16:26:03
+
+recipe invalid, not 'IsRecipeAnywhere' and neither ingredience is in hands
+Class:      'PatchItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/classes\recipes\recipebase.c:477
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:414
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:290
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:140
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:203
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuouscraft.c:52
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:60
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:339
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 04.01 2020 16:26:19
+
+recipe invalid, not 'IsRecipeAnywhere' and neither ingredience is in hands
+Class:      'PatchItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/classes\recipes\recipebase.c:477
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:414
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:290
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:140
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:203
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuouscraft.c:52
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:60
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:339
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 
+
+
+------------------------------------
+WIN-7SM163QVH8B, 04.01 2020 16:26:36
+
+recipe invalid, not 'IsRecipeAnywhere' and neither ingredience is in hands
+Class:      'PatchItem'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:44
+scripts/4_World/classes\recipes\recipebase.c:477
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:414
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:290
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:140
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:203
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuouscraft.c:52
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:60
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:339
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:28
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2303 mod @CF;@Alx_Epic_Vest;@BuildAnywhere;@Code Lock;@Community-Online-Tools;@DisableBaseDestruction;@DropItemsBeforeDying;@SQUAD MSF-C;@TEPTraderWallet;@Trader;@Banking;@VanillaPlusPlusMap;@VehicleActivityLogs;@VehicleSlotPlus;@FlipTransport;@Odins_Stube;@Unlimited Stamina;@SIX-DayZ-Auto-Run;@Server_Information_Panel;@OP_BaseItems ip 185.223.30.146 profiles C:\Users\Administrator\Desktop\Steam\steamapps\common\DayZServer\Odinprofil 

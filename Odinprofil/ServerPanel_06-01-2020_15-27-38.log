@@ -1,0 +1,13 @@
+---------------------------------------------
+ServerPanel log started at 06.01.2020 15:27:38
+
+06.01.2020 15:27:38 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+06.01.2020 15:27:38 [ServerPanelConfig]: Reading Server Config
+06.01.2020 15:27:38 [ServerPanelConfig]: ConfigRequest
+06.01.2020 16:39:05 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+06.01.2020 16:42:47 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+06.01.2020 19:36:16 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+06.01.2020 20:49:10 [ServerPanelI]: Hannibal (-7sfCCDmzSwLSEYa4ZkpMYIxsZV0DW3c5ge_mVbdK-Q=) - Config sync
+06.01.2020 21:49:15 [ServerPanelI]: Hannibal (-7sfCCDmzSwLSEYa4ZkpMYIxsZV0DW3c5ge_mVbdK-Q=) - Config sync
+06.01.2020 23:29:50 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync
+07.01.2020 01:45:05 [ServerPanelI]: Raven (hKIheCYunLnZq-aYvYv_kNZUQVGimjzZE9b5ehtsRzA=) - Config sync

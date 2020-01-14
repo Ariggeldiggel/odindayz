@@ -1,0 +1,21 @@
+---------------------------------------------
+ServerPanel log started at 30.12.2019 20:48:25
+
+30.12.2019 20:48:25 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+30.12.2019 20:48:25 [ServerPanelConfig]: Reading Server Config
+30.12.2019 20:48:25 [ServerPanelConfig]: ConfigRequest
+30.12.2019 20:51:45 [ServerPanelI]: Survivor (fS7SJlvinpCIb0lnEZV83X-YcwrE5Sz5-_sqIrfDs24=) - Config sync
+30.12.2019 20:52:37 [ServerPanelI]: Survivor (2) (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 20:54:51 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+30.12.2019 21:00:49 [ServerPanelI]: Survivor (2) (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+30.12.2019 21:02:46 [ServerPanelI]: Survivor (2) (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+30.12.2019 21:06:23 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Config sync
+30.12.2019 21:11:36 [ServerPanelI]: Survivor (2) (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Player Stats sync
+30.12.2019 21:23:35 [ServerPanelI]: TechnoBeatz (2Is6m34acX7ZcjOPUsRpqYmKIJrWsjbqGZ8CQetbZFA=) - Config sync
+30.12.2019 21:58:32 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Config sync
+30.12.2019 21:59:57 [ServerPanelI]: [Odin] Dome (561TemQCFUaM1rSdOBda_P5UGkFkBL-W-zJ8Z2tpsmw=) - Player Stats sync
+30.12.2019 22:19:25 [ServerPanelI]: [Odin] Camideluxe96 (dQvowo-0IdgYF3Jd4RGBYn8ZiaWsOO4yjfWdo3xDBFw=) - Player Stats sync
+30.12.2019 23:32:09 [ServerPanelI]: Survivor (2) (Gk2SIrwdYtX4YlRdPKXFbhCgAf8ksmvLtPLzSOEa0_Q=) - Config sync
+30.12.2019 23:49:42 [ServerPanelI]: TechnoBeatz (2Is6m34acX7ZcjOPUsRpqYmKIJrWsjbqGZ8CQetbZFA=) - Config sync
+30.12.2019 23:53:21 [ServerPanelI]: Survivor (3) (X7t2AxgfoPPsUQKdqOaG0HzsHZUtOY0-1dx5NkwsFxc=) - Config sync
+31.12.2019 01:43:03 [ServerPanelI]: TechnoBeatz (2Is6m34acX7ZcjOPUsRpqYmKIJrWsjbqGZ8CQetbZFA=) - Config sync
